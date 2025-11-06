@@ -49,13 +49,13 @@ const Gallery = () => {
           ))}
         </div>
 
-        <div className="mt-16 text-center">
+          <div className="mt-16 text-center">
           <div className="inline-block p-8 rounded-lg bg-card/30 backdrop-blur-sm border border-primary/30 shadow-gold animate-fade-in-up">
             <p className="text-lg text-foreground mb-2">
               Follow us on Instagram for more culinary delights
             </p>
             <a
-              href="https://www.instagram.com/sheeshmahalraipur"
+              href="https://www.instagram.com/sheeshmahalraipur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary-glow font-semibold text-xl transition-colors inline-flex items-center"

@@ -70,7 +70,7 @@ const InstagramFeed = () => {
             asChild
           >
             <a
-              href="https://www.instagram.com/sheeshmahalraipur"
+              href="https://www.instagram.com/sheeshmahalraipur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -84,7 +84,7 @@ const InstagramFeed = () => {
           {posts.map((post, index) => (
             <a
               key={index}
-              href="https://www.instagram.com/sheeshmahalraipur"
+              href="https://www.instagram.com/sheeshmahalraipur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
               target="_blank"
               rel="noopener noreferrer"
               className="group relative overflow-hidden rounded-lg aspect-square shadow-elegant animate-fade-in-up cursor-pointer"

@@ -66,7 +66,7 @@ const Footer = () => {
               <p>Main Road, Shankar Nagar</p>
               <p>Raipur, Chhattisgarh</p>
               <a
-                href="https://www.instagram.com/sheeshmahalraipur"
+                href="https://www.instagram.com/sheeshmahalraipur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-primary hover:text-primary-glow transition-colors mt-4"
